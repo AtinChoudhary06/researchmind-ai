@@ -11,7 +11,7 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3.3-orange?style=flat-square)](https://groq.com/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](#license)
 
-**🔗 [Live Link](https://researchmind-ai-geti.onrender.com)**
+**🔗 [Live Link](https://researchmind-frontend-fzb0ftfueahahtgt.koreacentral-01.azurewebsites.net/)**
 
 </div>
 
